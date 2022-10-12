@@ -1,0 +1,7 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Montserrat;
+    background-color: rgb(68, 68, 68);
+
